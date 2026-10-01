@@ -1,10 +1,9 @@
 # Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models
 
-[![Paper](https://img.shields.io/badge/ICLR-2027-b31b1b.svg)](.)
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Official implementation of **TRACER** (ICLR 2027).
+Official implementation of **TRACER**.
 
 Diffusion models exhibit powerful generative capabilities. Despite these advances, their large-scale
 deployment has raised concerns about copyright infringement and harmful or biased content generation.
@@ -56,8 +55,9 @@ selected concepts account for the dominant footprint energy, a sharp decline in 
 cutoff in the selected sequence, allowing us to estimate the erased-set size without labeled
 calibration data.
 
-Across text-to-image and text-to-video backbones it reaches **150–137,000×** and **133–20,000×**
-speedups over membership-inference and brute-force search, with substantially higher accuracy.
+Experiments on text-to-image and text-to-video backbones and diverse unlearning methods demonstrate
+TRACER identifies erased concepts and estimates their number in seconds, achieving **5300×** speedup
+over MIA and brute-force search with substantially higher identification accuracy.
 
 ## Installation
 
@@ -144,11 +144,11 @@ constructive control, not a multi-concept result.
 ## Citation
 
 ```bibtex
-@inproceedings{tracer2027,
-  title     = {Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models},
-  author    = {Anonymous},
-  booktitle = {International Conference on Learning Representations (ICLR)},
-  year      = {2027}
+@misc{tracer2026,
+  title  = {Your Unlearning Gives You Away: Identifying Erased Concepts in Diffusion Models},
+  author = {Anonymous},
+  note   = {Under review},
+  year   = {2026}
 }
 ```
 
