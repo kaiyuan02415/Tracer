@@ -1,0 +1,31 @@
+group_id,N,concepts,categories
+airliner,1,airliner,imagenet30-coarse
+ambulance,1,ambulance,imagenet30-coarse
+banana,1,banana,imagenet30-coarse
+castle,1,castle,imagenet30-coarse
+cellphone,1,cellular telephone,imagenet30-coarse
+cheeseburger,1,cheeseburger,imagenet30-coarse
+church,1,church,imagenet30-coarse
+fire_truck,1,fire engine,imagenet30-coarse
+giant_panda,1,giant panda,imagenet30-coarse
+grand_piano,1,grand piano,imagenet30-coarse
+hammer,1,hammer,imagenet30-coarse
+hotdog,1,hotdog,imagenet30-coarse
+ice_cream,1,ice cream,imagenet30-coarse
+laptop,1,laptop,imagenet30-coarse
+lighthouse,1,beacon,imagenet30-coarse
+lion,1,lion,imagenet30-coarse
+microwave,1,microwave,imagenet30-coarse
+parachute,1,parachute,imagenet30-coarse
+pizza,1,pizza,imagenet30-coarse
+polar_bear,1,ice bear,imagenet30-coarse
+refrigerator,1,refrigerator,imagenet30-coarse
+school_bus,1,school bus,imagenet30-coarse
+soccer_ball,1,soccer ball,imagenet30-coarse
+sports_car,1,sports car,imagenet30-coarse
+submarine,1,submarine,imagenet30-coarse
+television,1,television,imagenet30-coarse
+tiger,1,tiger,imagenet30-coarse
+umbrella,1,umbrella,imagenet30-coarse
+violin,1,violin,imagenet30-coarse
+zebra,1,zebra,imagenet30-coarse

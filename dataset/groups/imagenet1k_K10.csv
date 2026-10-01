@@ -1,0 +1,11 @@
+group_id,N,concepts,categories
+G10a,10,beaver;mobile home;fox squirrel;hard disc;cliff dwelling;bell cote;tile roof;American lobster;monarch;Indian cobra,imagenet1k-random
+G10b,10,eggnog;wool;trench coat;magpie;knot;groom;Persian cat;perfume;horse cart;rapeseed,imagenet1k-random
+G10c,10,Siberian husky;trombone;steel arch bridge;banded gecko;bow;scabbard;groenendael;long-horned beetle;pier;dining table,imagenet1k-random
+G10d,10,European fire salamander;king snake;Irish wolfhound;grey whale;bittern;lakeside;redshank;skunk;Great Dane;parachute,imagenet1k-random
+G10e,10,beaker;coral fungus;great white shark;toyshop;barrel;briard;studio couch;backpack;marmoset;milk can,imagenet1k-random
+G10f,10,drilling platform;stupa;velvet;face powder;American chameleon;boa constrictor;borzoi;junco;whiskey jug;bullfrog,imagenet1k-random
+G10g,10,muzzle;Shih-Tzu;garden spider;thatch;curly-coated retriever;armadillo;agama;cougar;space bar;beacon,imagenet1k-random
+G10h,10,screen;green snake;wire-haired fox terrier;little blue heron;buckeye;maze;mask;binder;wine bottle;bucket,imagenet1k-random
+G10i,10,bluetick;washbasin;Pomeranian;hippopotamus;Polaroid camera;coffeepot;drum;computer keyboard;Italian greyhound;meerkat,imagenet1k-random
+G10j,10,shopping cart;slot;Norfolk terrier;horned viper;ice lolly;necklace;geyser;Leonberg;malamute;syringe,imagenet1k-random

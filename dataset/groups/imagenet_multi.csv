@@ -1,0 +1,11 @@
+group_id,N,concepts,categories
+G3a,3,lion;microwave;violin,animal+appliance+instrument
+G3b,3,ambulance;cellular telephone;pizza,vehicle+electronics+food
+G3c,3,zebra;castle;soccer ball,animal+building+sport
+G3d,3,tiger;refrigerator;grand piano,animal+appliance+instrument
+G3e,3,school bus;church;banana,vehicle+building+food
+G5a,5,lion;microwave;violin;ambulance;pizza,animal+appliance+instrument+vehicle+food
+G5b,5,zebra;castle;soccer ball;refrigerator;grand piano,animal+building+sport+appliance+instrument
+G5c,5,tiger;church;banana;cellular telephone;sports car,animal+building+food+electronics+vehicle
+G5d,5,school bus;airliner;television;hotdog;hammer,vehicle+aircraft+appliance+food+tool
+G5e,5,ice bear;beacon;laptop;ice cream;parachute,animal+building+electronics+food+aircraft

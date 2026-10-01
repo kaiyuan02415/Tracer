@@ -1,0 +1,51 @@
+group_id,N,concepts,categories
+K1a,1,koala,imagenet1k-random
+K1b,1,Tibetan terrier,imagenet1k-random
+K1c,1,dining table,imagenet1k-random
+K1d,1,bathtub,imagenet1k-random
+K1e,1,hourglass,imagenet1k-random
+K1f,1,Staffordshire bullterrier,imagenet1k-random
+K1g,1,warthog,imagenet1k-random
+K1h,1,megalith,imagenet1k-random
+K1i,1,screw,imagenet1k-random
+K1j,1,capuchin,imagenet1k-random
+K3a,3,burrito;great grey owl;solar dish,imagenet1k-random
+K3b,3,airship;Samoyed;volcano,imagenet1k-random
+K3c,3,face powder;cairn;Tibetan terrier,imagenet1k-random
+K3d,3,modem;earthstar;agama,imagenet1k-random
+K3e,3,grand piano;swab;wool,imagenet1k-random
+K3f,3,pinwheel;isopod;green mamba,imagenet1k-random
+K3g,3,Loafer;water snake;sea slug,imagenet1k-random
+K3h,3,hatchet;bluetick;rain barrel,imagenet1k-random
+K3i,3,scabbard;Komodo dragon;Siamese cat,imagenet1k-random
+K3j,3,ping-pong ball;wall clock;rock beauty,imagenet1k-random
+K5a,5,stone wall;leopard;dam;barbershop;capuchin,imagenet1k-random
+K5b,5,cougar;flagpole;goldfish;abacus;boathouse,imagenet1k-random
+K5c,5,dough;kite;manhole cover;scabbard;nematode,imagenet1k-random
+K5d,5,goblet;orange;fig;violin;Crock Pot,imagenet1k-random
+K5e,5,worm fence;swing;bolo tie;hen-of-the-woods;collie,imagenet1k-random
+K5f,5,Greater Swiss Mountain dog;handkerchief;holster;mouse;volleyball,imagenet1k-random
+K5g,5,dogsled;tray;wreck;American egret;guacamole,imagenet1k-random
+K5h,5,typewriter keyboard;brain coral;remote control;axolotl;Dutch oven,imagenet1k-random
+K5i,5,lampshade;American coot;measuring cup;sliding door;armadillo,imagenet1k-random
+K5j,5,leaf beetle;safety pin;trimaran;agama;half track,imagenet1k-random
+G10a,10,beaver;mobile home;fox squirrel;hard disc;cliff dwelling;bell cote;tile roof;American lobster;monarch;Indian cobra,imagenet1k-random
+G10b,10,eggnog;wool;trench coat;magpie;knot;groom;Persian cat;perfume;horse cart;rapeseed,imagenet1k-random
+G10c,10,Siberian husky;trombone;steel arch bridge;banded gecko;bow;scabbard;groenendael;long-horned beetle;pier;dining table,imagenet1k-random
+G10d,10,European fire salamander;king snake;Irish wolfhound;grey whale;bittern;lakeside;redshank;skunk;Great Dane;parachute,imagenet1k-random
+G10e,10,beaker;coral fungus;great white shark;toyshop;barrel;briard;studio couch;backpack;marmoset;milk can,imagenet1k-random
+G10f,10,drilling platform;stupa;velvet;face powder;American chameleon;boa constrictor;borzoi;junco;whiskey jug;bullfrog,imagenet1k-random
+G10g,10,muzzle;Shih-Tzu;garden spider;thatch;curly-coated retriever;armadillo;agama;cougar;space bar;beacon,imagenet1k-random
+G10h,10,screen;green snake;wire-haired fox terrier;little blue heron;buckeye;maze;mask;binder;wine bottle;bucket,imagenet1k-random
+G10i,10,bluetick;washbasin;Pomeranian;hippopotamus;Polaroid camera;coffeepot;drum;computer keyboard;Italian greyhound;meerkat,imagenet1k-random
+G10j,10,shopping cart;slot;Norfolk terrier;horned viper;ice lolly;necklace;geyser;Leonberg;malamute;syringe,imagenet1k-random
+K20a,20,chime;bow tie;torch;albatross;Lakeland terrier;dishwasher;brain coral;bustard;ski;Greater Swiss Mountain dog;corkscrew;electric fan;chocolate sauce;Maltese dog;bath towel;alligator lizard;chain mail;tow truck;daisy;altar,imagenet1k-random
+K20b,20,Christmas stocking;freight car;nail;fox squirrel;bucket;German shepherd;spider monkey;radio telescope;prairie chicken;maze;pinwheel;screen;Japanese spaniel;sunscreen;lionfish;kimono;gazelle;tank;limpkin;ashcan,imagenet1k-random
+K20c,20,Shih-Tzu;revolver;hammer;frilled lizard;steel arch bridge;anemone fish;bagel;bottlecap;sturgeon;screw;Arabian camel;hummingbird;chain saw;clumber;cuirass;ptarmigan;Saluki;black swan;castle;lifeboat,imagenet1k-random
+K20d,20,wine bottle;fire engine;tailed frog;grasshopper;manhole cover;gong;broom;isopod;ski mask;paddlewheel;proboscis monkey;china cabinet;viaduct;schipperke;burrito;Angora;barometer;guillotine;titi;lacewing,imagenet1k-random
+K20e,20,Dandie Dinmont;vault;piggy bank;cash machine;stopwatch;pedestal;wood rabbit;wing;bobsled;damselfly;shower cap;nematode;trombone;Gordon setter;malinois;candle;electric guitar;window screen;picket fence;water tower,imagenet1k-random
+K20f,20,brown bear;collie;mushroom;hook;zucchini;kuvasz;face powder;vizsla;garbage truck;Pembroke;apiary;zebra;fireboat;centipede;Loafer;coil;hog;silky terrier;streetcar;limousine,imagenet1k-random
+K20g,20,peacock;tile roof;honeycomb;pineapple;red wine;echidna;photocopier;jigsaw puzzle;bannister;macaw;lion;sulphur butterfly;trifle;birdhouse;Irish wolfhound;guacamole;Bouvier des Flandres;bloodhound;drumstick;motor scooter,imagenet1k-random
+K20h,20,accordion;bittern;lens cap;Dutch oven;pillow;wall clock;printer;screwdriver;hare;bullfrog;wig;sliding door;convertible;sulphur-crested cockatoo;mongoose;Rottweiler;typewriter keyboard;French bulldog;lighter;brassiere,imagenet1k-random
+K20i,20,modem;unicycle;trailer truck;poncho;Boston bull;malamute;French loaf;spoonbill;Mexican hairless;yurt;chiffonier;golden retriever;refrigerator;thimble;milk can;feather boa;digital clock;ice lolly;pop bottle;ground beetle,imagenet1k-random
+K20j,20,maillot;Welsh springer spaniel;radio;power drill;scorpion;Old English sheepdog;junco;stole;safe;lemon;monarch;Band Aid;patas;banded gecko;notebook;purse;promontory;maillot tank suit;Italian greyhound;cocker spaniel,imagenet1k-random

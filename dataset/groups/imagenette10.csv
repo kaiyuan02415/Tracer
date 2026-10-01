@@ -1,0 +1,11 @@
+group_id,N,concepts,categories
+tench,1,tench,imagenette-10
+springer,1,English springer,imagenette-10
+cassette,1,cassette player,imagenette-10
+chain,1,chain saw,imagenette-10
+church,1,church,imagenette-10
+horn,1,French horn,imagenette-10
+garbage,1,garbage truck,imagenette-10
+gas,1,gas pump,imagenette-10
+golf,1,golf ball,imagenette-10
+parachute,1,parachute,imagenette-10

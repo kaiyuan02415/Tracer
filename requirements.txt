@@ -1,0 +1,16 @@
+# Core -- the attack itself needs nothing beyond a diffusion backbone and linear algebra.
+torch>=2.1.0
+diffusers>=0.31.0          # >=0.31 for the video transformer backbones (CogVideoX, Wan)
+transformers>=4.44.0
+safetensors>=0.4.0
+accelerate>=0.27.0
+numpy>=1.24
+sentencepiece              # T5 / umT5 tokenizers used by SD3, FLUX and the video backbones
+protobuf
+
+# Evaluation baselines only (utils/baseline_*.py). The attack does not import these.
+open-clip-torch            # CLIP scoring for brute-force generation probing
+torchvision
+imageio                    # video decoding for the text-to-video baseline
+ftfy
+regex
